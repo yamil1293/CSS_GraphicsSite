@@ -9,8 +9,6 @@
 
 [Yamil Burgos](https://github.com/yamilburgos/) – yamil.burgos1293@gmail.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
 ## Contributing
 
 1. Fork it (<https://github.com/yamilburgos/RasterVectorSite/fork>)
