@@ -1,7 +1,7 @@
 # RasterVectorSite
 > A simple site providing information about raster & vector graphics.
 
-[![version][version-badge]]
+[version][version-badge]
 
 	https://yamilburgos.github.io/RasterVectorSite
 
