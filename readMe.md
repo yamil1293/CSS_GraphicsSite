@@ -1,7 +1,7 @@
 # RasterVectorSite
 > A simple site providing information about raster & vector graphics.
 
-[![Build Status][travis-image]][travis-url]
+[![version][version-badge]]
 
 	https://yamilburgos.github.io/RasterVectorSite
 
@@ -18,7 +18,4 @@
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[version-badge]: https://img.shields.io/badge/version-0.1.6-blue.svg
